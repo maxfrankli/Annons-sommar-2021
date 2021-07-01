@@ -1,6 +1,5 @@
 # Annons-sommar-2021
-Annons
-Är du en schyssta, modig och nyfiken utvecklare? 
+Är du en schysst, modig och nyfiken utvecklare? 
 
 Vi på Cilbuper vill bli ännu fler. Därför söker vi nu dig som vill vara med på ett spännande äventyr tillsammans med oss. Vart den tar oss vet vi inte riktigt, men det vi vet är att vi kommer behöva flera nya medarbetare inom systemutveckling för att hjälpa våra kunder att bygga morgondagens produkter.
 
